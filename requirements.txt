@@ -1,1 +1,8 @@
 jupyter
+pandas
+numpy
+seaborn
+matplotlib
+statsmodels
+scikit-learn
+mlxtend
